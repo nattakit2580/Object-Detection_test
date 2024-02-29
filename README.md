@@ -1,2 +1,3 @@
 # Object_Detection
-To store the created or collected dataset.
+
+โปรเจคนี้เป็นแอปพลิเคชันที่ใช้โมเดล YOLO (You Only Look Once) เพื่อตรวจจับวัตถุในวิดีโอจากกล้องเว็บแคมบน Tkinter GUI ด้วย Python โดยใช้ไลบรารี Ultralytics YOLO และ OpenCV (Open Source Computer Vision Library) เพื่อเรียกใช้กล้องเว็บแคมและประมวลผลภาพเป็นชุดข้อมูลที่ต้องการจากกล้องเว็บแคมดังกล่าว โดยโปรแกรมจะแสดงภาพที่ถูกประมวลผลและตรวจจับวัตถุบน GUI โดยใช้ Tkinter สร้าง GUI ในขณะที่วัตถุกำลังถูกตรวจจับในวิดีโอจากกล้องเว็บแคมที่กำหนดไว้
